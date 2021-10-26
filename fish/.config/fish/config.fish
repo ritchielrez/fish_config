@@ -1,3 +1,5 @@
-oh-my-posh --init --shell fish --config ~/.poshthemes/zash.omp.json | source
+# prompt
+starship init fish | source
 
+# path variable
 source ~/.config/fish/path.fish
